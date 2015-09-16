@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 集一切福德三昧經
+#+DATE: 2015-08-30 20:04:38.481764
+#+PROPERTY: JUAN 0
