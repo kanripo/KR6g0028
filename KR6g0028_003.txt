@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:04:38.241601
+#+DATE: 2015-08-30 20:04:40.297427
 #+TITLE: 集一切福德三昧經
 #+PROPERTY: CBETA_ID T12n0382
 #+PROPERTY: ID KR6g0028
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 382
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6g0028_T_000-0988c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0028_T_003-0999b> 
 #+PROPERTY: JUAN 3
 ¶
-
- 《集一切福德三昧經》卷下¶
+《集一切福德三昧經》卷下¶
 ¶
 姚秦三藏鳩摩羅什譯¶
 
@@ -236,8 +235,8 @@
 法忍。文殊師利！所言忍者，名緣一切諸法無¶
 盡；所言忍者，名之為正。文殊師利！忍之所¶
 緣，非與世法而共俱行；非凡夫法、非學法、非¶
-無學法、非緣覺法、非菩薩法、非佛法，而共¶
-俱行。不與一切諸法俱行，名為得忍。捨於一¶
+無學法、非緣覺法、非菩薩法、非佛法，而俱¶
+共行。不與一切諸法俱行，名為得忍。捨於一¶
 切諸法想著，名之為忍。是忍亦不在於眼色、¶
 耳聲、鼻香、舌味、身觸、意法數中，無盡、不盡，名
 <pb:KR6g0028_T_003-1001a>¶
