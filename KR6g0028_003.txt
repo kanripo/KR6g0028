@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:04:38.241601
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:08
 #+TITLE: 集一切福德三昧經
 #+PROPERTY: CBETA_ID T12n0382
 #+PROPERTY: ID KR6g0028
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 382
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0028_T_000-0988c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0028_T_003-0999b> 
 #+PROPERTY: JUAN 3
 ¶
-
- 《集一切福德三昧經》卷下¶
+《集一切福德三昧經》卷下¶
 ¶
 姚秦三藏鳩摩羅什譯¶
 
